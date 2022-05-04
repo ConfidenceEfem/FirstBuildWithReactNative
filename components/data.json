@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "title": "Biography of Slum Developer",
+        "desc": "Covid­-19 a Virus that has threatened the existence of mankind and also has left the economy of several countries in amiss. Despite the huge destruction Covid-19 has caused on the economy, lockdown was the best measure to reduce the spread of the Virus. Scientist has proven that, a person with Corona Virus",
+        "img": "img.jpg"
+        
+    },
+    {
+        "id": 2,
+        "title": "How to be a Badass Dev",
+        "desc": "But despite the positive effect of lockdown in reducing the spread of the Virus, there were some other areas the lockdown affected negatively. Using my country, Nigeria as a case study, areas like Health Sector, Security wise, educational sector, and other areas were ",
+        "img": "img1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "First Hackathon in A Slum was A Blast",
+        "desc": "One of the essential measure I would put in place would be developing the Health Sector in Nigeria. Through personal research, I found that there are only 6 testing centres in the country. How can a country with over 200 million population having 6 testing centres fight corona virus out of the country? ",
+        "img": "img2.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Its never too late",
+        "desc": "Hospitals were built in the 70s and 80s. Then, how do we expect to totally reduced the spread of Corona Virus when our medical facilities are not well equipped? So the major step i would have taken would be developing the Health Sector, by creating more testing centre and providing good equipments for every health centres",
+        "img": "img3.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Jesus is the best",
+        "desc": "Covid­-19 a Virus that has threatened the existence of mankind and also has left the economy of several countries in amiss. Despite the huge destruction Covid-19 has caused on the economy, lockdown was the best measure to reduce the spread of the Virus. Scientist has proven that, a person with Corona Virus",
+        "img": "img4.jpg"
+    },
+    {
+        "id": 6,
+        "title": "My Dream was always a reality",
+        "desc": "One of the essential measure I would put in place would be developing the Health Sector in Nigeria. Through personal research, I found that there are only 6 testing centres in the country. How can a country with over 200 million population",
+        "img": "img5.jpg"
+    }
+]
